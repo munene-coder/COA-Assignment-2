@@ -10,3 +10,7 @@
 
 #Clone the project and then build and run the main.cpp file.You can also view the source code on codeblocks editor.
 
+#You may view the result snippets in the COA Assignment 2 Snippets file
+
+
+
